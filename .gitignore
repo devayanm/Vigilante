@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+env/
+*.egg-info/
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Flask instance folder
+instance/
+
+# Model files
+/ai-ml/models/
+
+# Configuration files
+config.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data files
+/data/
